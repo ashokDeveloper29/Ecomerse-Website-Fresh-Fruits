@@ -1,0 +1,26 @@
+.term_font{
+    font-size: 23px;
+    color: #58595B;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 300;
+    padding-bottom: 15px;
+    display: block;
+}
+
+
+.term_border{
+    width: 100%;
+    height: 0.1px;
+    margin: auto;
+    margin-top: 60px;
+    border-bottom: solid 1px #3e3c3c;
+
+  }
+
+  .term_fam{
+    font: 400 20px/20px 'Roboto Slab', serif;
+    float: left;
+    width: 100%;
+    color: #666;
+    padding: 0 0 10px;
+  }

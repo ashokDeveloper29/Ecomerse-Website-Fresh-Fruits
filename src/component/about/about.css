@@ -1,0 +1,21 @@
+.font_fam{
+    font-family: 'Roboto Slab', serif;
+    font-weight: lighter;
+    font-size: 30px;
+    font-weight: 300;
+    display: block;
+    color: #58595B;
+}
+.font_fam1{
+    color: #6D6E71;
+    font-family: 'Roboto Slab', serif;
+    font-size: 18px;
+    font-weight: 400;
+    width: 100%;
+    display: block;
+    margin: 22px 0 0;
+    
+}
+.font_col{
+    color: #808285;
+}
